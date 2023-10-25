@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently studying Ph.D. in Machine Learning@MBZUAI
+- 📫 How to reach me: maiahmed.contact@gmail.com
 
 <!--
 **Mai-CS/Mai-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
