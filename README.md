@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently studying Ph.D. in Machine Learning at Mohamed bin Zayed University of Machine Learning
+- 🌱 I’m currently studying Ph.D. in Machine Learning at Mohamed bin Zayed University of AI
 - 📫 How to reach me: maiahmed.contact@gmail.com
 
 <!--
