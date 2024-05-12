@@ -2,6 +2,8 @@
 - 🌱 I’m currently studying Ph.D. in Machine Learning at Mohamed bin Zayed University of AI
 - 📫 How to reach me: maiahmed.contact@gmail.com
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mai-CS&theme=default)](https://git.io/streak-stats)
+
 <!--
 **Mai-CS/Mai-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
